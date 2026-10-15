@@ -1,0 +1,73 @@
+{
+  "feature_groups": {
+    "run_based": [
+      "pythpat_W",
+      "pyth_W",
+      "RD",
+      "RD_pg",
+      "log_R_RA",
+      "R_pg",
+      "RA_pg"
+    ],
+    "close_game": [
+      "SV_pg",
+      "SHO_pg",
+      "CG_pg",
+      "IP_pg"
+    ],
+    "era_relative": [
+      "R_rel",
+      "RA_rel"
+    ],
+    "offense": [
+      "OBP",
+      "SLG",
+      "OPS",
+      "ISO",
+      "RC_pg"
+    ],
+    "pitch_defense": [
+      "WHIP",
+      "K9",
+      "BB9",
+      "HR9",
+      "FIP_core",
+      "UER",
+      "E_pg"
+    ]
+  },
+  "engineered": [
+    "pythpat_W",
+    "pyth_W",
+    "RD",
+    "RD_pg",
+    "log_R_RA",
+    "R_pg",
+    "RA_pg",
+    "SV_pg",
+    "SHO_pg",
+    "CG_pg",
+    "IP_pg",
+    "R_rel",
+    "RA_rel",
+    "OBP",
+    "SLG",
+    "OPS",
+    "ISO",
+    "RC_pg",
+    "WHIP",
+    "K9",
+    "BB9",
+    "HR9",
+    "FIP_core",
+    "UER",
+    "E_pg"
+  ],
+  "exact_combos": [
+    "RD",
+    "RD_pg",
+    "UER",
+    "OPS",
+    "FIP_core"
+  ]
+}
